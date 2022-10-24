@@ -11,3 +11,8 @@ desconstrutor
 3- Podemos omitir o retorno de valores que não precisamos de uma tupla. Esse conceito é conhecido como:
 
 Descartes
+
+4- Podemos representar um tipo de dado que pode agrupar outros tipos de dados, sejam iguais ou não, podendo alterar  o valor desses elementos. Esse tipo é conhecido como:
+
+tupla
+
