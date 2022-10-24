@@ -1,0 +1,1 @@
+# Tuplas-operador-tern-rio-e-desconstru-o-de-um-objeto
